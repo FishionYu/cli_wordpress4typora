@@ -45,11 +45,29 @@ h3 {
     margin-top: 10px!important;
 }
 
+h4 {
+    font-size: 14px!important;
+    font-weight: bold!important;
+    margin-bottom: 10px!important;
+    margin-top: 10px!important;
+}
+
+h5,h6 {
+    font-size: 14px!important;
+    font-weight: bold!important;
+    margin-bottom: 10px!important;
+    margin-top: 10px!important;
+}
+
 p {
     font-size: 14px!important;
     /* line-height: 10px!important; */
     font-family: Arial, sans-serif;
     margin-bottom: 10px!important;
+}
+
+img {
+    box-shadow: #A5A5A5;
 }
 
 /* @media print {
